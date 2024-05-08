@@ -1,0 +1,10 @@
+.content{
+  z-index: 100;
+  width: 100vw;
+  height: 100vh;
+  /* display: flex; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family:'Times New Roman', Times, serif;
+}
